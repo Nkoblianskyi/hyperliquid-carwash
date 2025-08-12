@@ -224,7 +224,7 @@ export default function ContactPage() {
                     <Mail className="h-6 w-6 text-gray-600 mt-1 flex-shrink-0" />
                     <div>
                       <h3 className="font-semibold text-gray-900 mb-2">Email Us</h3>
-                      <p className="text-gray-600">info@hyperliquid.com</p>
+                      <p className="text-gray-600">info@liquiddetailing.com </p>
                       <p className="text-sm text-gray-500 mt-1">We respond within 24 hours</p>
                     </div>
                   </div>

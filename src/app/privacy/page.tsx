@@ -147,7 +147,7 @@ export default function PrivacyPolicyPage() {
                     <p>
                       To exercise these rights, please contact us at{" "}
                       <a href="mailto:privacy@hyperliquidwash.com" className="text-gray-900 underline">
-                        privacy@hyperliquid.com
+                        privacy@liquiddetailing.com
                       </a>
                       .
                     </p>
@@ -225,7 +225,7 @@ export default function PrivacyPolicyPage() {
                         <br />
                         Email:{" "}
                         <a href="mailto:privacy@hyperliquidwash.com" className="text-gray-900 underline">
-                          privacy@hyperliquid.com
+                          privacy@liquiddetailing.com
                         </a>
                       </p>
                     </div>

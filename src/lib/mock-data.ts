@@ -178,6 +178,6 @@ export const companyInfo = {
   name: "Hyperliquid",
   tagline: "Premium Car Care Excellence",
   phone: "+45 33 41 7147",
-  email: "info@hyperliquid.com",
+  email: "info@liquiddetailing.com ",
   address: "Østerbrogade 120, 2100 København Ø, Denmark",
 }

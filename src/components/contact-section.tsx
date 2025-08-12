@@ -134,7 +134,7 @@ export function ContactSection() {
                   <Mail className="h-6 w-6 text-gray-600 mt-1" />
                   <div>
                     <h3 className="font-semibold text-gray-900 mb-1">Email</h3>
-                    <p className="text-gray-600">info@hyperliquid.com</p>
+                    <p className="text-gray-600">info@liquiddetailing.com </p>
                   </div>
                 </div>
               </CardContent>
