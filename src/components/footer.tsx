@@ -84,7 +84,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center">
-          <p className="text-gray-400 text-sm">© 2025 Hyperliquid. All rights reserved.</p>
+          <p className="text-gray-400 text-sm">© 2025 liquiddetailing.com - All rights reserved.</p>
           <p className="text-gray-400 text-sm mt-4 md:mt-0">
             Østerbrogade 52, 2100 København Ø, Denmark | (555) 123-4567
           </p>
